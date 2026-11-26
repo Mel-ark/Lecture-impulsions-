@@ -38,10 +38,10 @@
             +--------- GP10 (pin15)
             |
             |
-      [Bouton poussoir]
-            |
-            |
-            |
+      [Bouton poussoir] ------
+            |                |
+            |         [Condensteur (optionel)]
+            |_______________ |
         GND(pin36)
 
 # Code source 
