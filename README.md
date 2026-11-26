@@ -40,7 +40,7 @@
             |
       [Bouton poussoir] ------
             |                |
-            |         [Condensteur (optionel)]
+            |     [Condensateur (optionel de faible capacité)]
             |_______________ |
         GND(pin36)
 
