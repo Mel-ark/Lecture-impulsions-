@@ -45,7 +45,7 @@
         GND(pin36)
 
 # Code source 
-- Un fichier séparé est réservé au code source de ce projet.
+- Un fichier séparé contient code source, en langage C (orientée Arduino), de ce projet.
 
 ## Ecriture compilation et exécution 
 
